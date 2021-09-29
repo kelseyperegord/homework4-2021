@@ -83,6 +83,7 @@ th{
   margin: 0 auto;
   background-color: #7e0825;
   text-transform: uppercase;
+  vertical-align: middle;
 }
 
 .rowhead{
